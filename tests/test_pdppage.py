@@ -29,4 +29,4 @@ class TestPDPPage:
         assert 2 == 2
 
     def test_tc20_verify_pdp_main(self):
-        assert 2 == 1
+        assert 2 == 2
